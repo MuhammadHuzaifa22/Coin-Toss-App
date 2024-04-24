@@ -1,0 +1,24 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.cc{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: center;
+}
+button{
+    border-radius: 30px;
+    padding: 20px 50px;
+
+}
+button:hover{
+    background: #2600fffa;
+    color: yellow;
+    font-size: 15px;
+}
+.ca{
+    display: flex;
+    justify-content: center;
+}
